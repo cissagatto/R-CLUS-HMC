@@ -8,5 +8,6 @@ The CLUS algorithm needs a ".s" file that contains the configuration for executi
 
 ## Terminal
 
-str = paste("java -jar ", Folder, "/Clus.jar ", "grupo_1.s", sep="")
-system(str)
+_str = paste("java -jar ", Folder, "/Clus.jar ", "grupo_1.s", sep="")_
+
+_system(str)_
